@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @x-dv-x
+- 👋 Hi, I’m Digvijay 
 - 👀 I’m interested in Hacking and CyberSecurity
 - 🌱 I’m currently learning CyberSecurity from Try Hack Me
 - 💞️ I’m looking to collaborate on projects related to cybersec
