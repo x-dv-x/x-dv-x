@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing web solutions and learning quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing web apps and learning quick hacks.
 - 🎓 &nbsp; Computer Science Graduate from SRM University.
 - 💼 &nbsp; Working as a Freelancer, while actively looking for a job.
 - 🌱 &nbsp; Learning more about Dark Web, Computer Security and Red Teaming.
