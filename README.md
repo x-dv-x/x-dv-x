@@ -65,7 +65,7 @@
 
 <h3> 📌 &nbsp;Featured </h3>
 
-- 🧪 &nbsp;**AZ-802 Home Lab** — a fully documented Windows Server / Active Directory lab built on KVM, capturing the whole build *and every failure and fix* as an Obsidian knowledge vault. &nbsp;<sub>↳ pin this repo</sub>
+- 🧪 &nbsp;**AZ-802 Home Lab** — a fully documented Windows Server / Active Directory lab built on KVM, capturing the whole build *and every failure and fix* as an Obsidian knowledge vault. &nbsp;
 
 <br/>
 
