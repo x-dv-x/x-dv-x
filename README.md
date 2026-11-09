@@ -69,17 +69,6 @@
 
 <br/>
 
-<h3 align="center"> 📊 &nbsp;GitHub Stats </h3>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=x-dv-x&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-dv-x&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-dv-x&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
